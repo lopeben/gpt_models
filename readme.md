@@ -24,4 +24,4 @@
 ## GPT Models
 - davinci003.py uses text-davinci-003
 - gpt35_turbo.py uses gpt-3.5-turbo
-- read [Documentaiton](https://platform.openai.com/docs/models/gpt-3-5)
+- read [Documentation](https://platform.openai.com/docs/models/gpt-3-5)
