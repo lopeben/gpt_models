@@ -11,7 +11,17 @@
 ## Install OpenAI python module
 - *Beforehand make sure you have Python software installed in your computer*
 - Open a command window and paste this 
-  - pip install openai *or* pip3 install openai
+  - **pip install openai** *or* **pip3 install openai**
 
 ## Clone the repository
-- 
+- git clone https://github.com/lopeben/gpt_models.git
+- and copy the "key.txt" file into this repository
+
+## Run the script
+- python -u davinci003.py "Hello DaVinci"
+- python -u gpt35_turbo.py "<anything you want to talk about>"
+
+## GPT Models
+- davinci003.py uses text-davinci-003
+- gpt35_turbo.py uses gpt-3.5-turbo
+- read [Documentaiton](https://platform.openai.com/docs/models/gpt-3-5)
