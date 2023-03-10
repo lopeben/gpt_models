@@ -19,7 +19,7 @@
 
 ## Run the script
 - python -u davinci003.py "Hello DaVinci"
-- python -u gpt35_turbo.py "<anything you want to talk about>"
+- python -u gpt35_turbo.py "\<anything you want to talk about\>"
 
 ## GPT Models
 - davinci003.py uses text-davinci-003
